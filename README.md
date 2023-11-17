@@ -4,7 +4,7 @@ Este é um projeto em Dart que implementa uma função para calcular o somatóri
 ## Como Rodar
 Certifique-se de ter o Dart instalado em seu sistema. Se não tiver você pode instala-lo [clicando aqui](https://dart.dev/get-dart)
 
-1. Clone este repositório: `git clone https://github.com/GabrielRStabile/somar-numeros.git`
+1. Clone este repositório: `git clone https://github.com/GabrielRStabile/somar_numeros.git`
 2. Navegue até o diretório do projeto: `cd somar_numeros`
 3. Execute o script: `dart run lib/somar_numeros.dart`
 
